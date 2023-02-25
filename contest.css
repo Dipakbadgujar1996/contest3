@@ -1,0 +1,48 @@
+body{
+    margin:15px;
+    padding: 15px 60px;
+}
+.carousel-inner box{
+    margin-left: 20px;
+    padding-right: 20px;
+
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    padding-left: 0;
+    padding-right: 0;
+}
+.carouselExampleIndicators{
+    padding-left: 20px;
+}
+.headline{
+    font-size: 20px;
+}
+.ele1{
+    height: 300px;
+}
+.ele2{
+    font-size: 25px;
+}
+.ele{
+    font-size: 30px;
+}
+.box{
+    padding: 10px;
+}
+.navbar-brand:focus,
+.navbar-brand:hover{
+    color: blue;
+}
+.navbar-li{
+    color: black;
+}
+.carousel-inner box{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.headline b{
+    font-size: 40px;
+}
+.collapse navbar-collapse{
+    margin-left: 20px;
+}
